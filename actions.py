@@ -1,5 +1,12 @@
 from api import *
 
+# @WHAT: A file containing all the functions that the bot will be able to use.
+
+# @WHY: It seemed logical to me to seperate all the functions in a different file from the api.py.
+# This also makes the project more readable and managable. (src: https://blog.tecladocode.com/python-30-day-21-multiple-files/)
+
+# @ALTERNATIVES: There are many alternatives to this method.
+# It would be possible to put all the code in api.py since there is not a lot of code yet.
 
 def reply_to_tweet():
     """

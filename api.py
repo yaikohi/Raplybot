@@ -4,7 +4,8 @@ from constants import *
 import tweepy
 from tweepy import API
 
-# Authorization necessary to use the bot (raplybot) on twitter.com
+# @WHAT & @WHY: Authorization necessary to use the bot (raplybot) on twitter.com
+# @ALTERNATIVES: None.
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 

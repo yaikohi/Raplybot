@@ -4,6 +4,12 @@ File for testing python code for the bot.
 
 from api import *
 
+# @WHAT: Lines of code for testing smaller things with the bot.
+# @WHY: So that I can easily test the twitter bot before applying bigger functions.
+# @ALTERNATIVES: There is a lot I can still learn about code-testing.
+# Interesting read: https://realpython.com/python-testing/
+# Very much a work-in-progress for me.
+
 
 # The mentions to @raplybot
 mentions = api.mentions_timeline()
