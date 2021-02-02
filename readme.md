@@ -8,14 +8,12 @@ Project started to learn about automizing a twitter bot and general python synta
 The idea is to also use machine learning so that it will generate vaguely original content based on replies it gets.
 
 ## Currently
-- Only sends a tweet if I activate the script
-- Only adds yo's to the tweet.
-
+- Only sends a tweet if I activate the script.
+- Can reply to tweets if I activate the scripts.
 
 ## TODO: 
 - Automate the bot.
-- Find a proper dataset.
-- Machine learn what rhymes in english based on the found dataset.
+- Write code so that it delivers more interesting content.
 
 
 
