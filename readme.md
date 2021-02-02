@@ -12,6 +12,7 @@ The idea is to also use machine learning so that it will generate vaguely origin
 - Can reply to tweets if I activate the scripts.
 
 ## TODO: 
+- Write a better TODO list.
 - Automate the bot.
 - Write code so that it delivers more interesting content.
 
