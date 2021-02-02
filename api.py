@@ -1,4 +1,6 @@
 from constants import *
+# I keep my api keys from github.
+
 import tweepy
 from tweepy import API
 
