@@ -1,4 +1,4 @@
-from constants import *
+from constants import consumer_key, consumer_secret, access_token, access_token_secret
 # I keep my api keys from github.
 
 import tweepy
